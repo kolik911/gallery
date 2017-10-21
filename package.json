@@ -1,0 +1,23 @@
+{
+  "name": "gallexy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolik911/gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolik911/gallery/issues"
+  },
+  "homepage": "https://github.com/kolik911/gallery#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.3"
+  }
+}
